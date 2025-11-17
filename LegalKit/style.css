@@ -27,12 +27,12 @@ body {
 }
 
 .navbar-brand i {
-    margin-right: -15rem;
+    margin-right: 0rem;
     color: #f39c12;
 }
 
 .right-group {
-    margin-right: -15rem;
+    margin-right: 0rem;
 }
 
 /* Cards */
